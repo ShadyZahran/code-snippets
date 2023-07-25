@@ -1,3 +1,3 @@
 # SampleCode
 
-This repository contains sample code from different projects.
+This repository contains sample code from different Unity3D projects.
